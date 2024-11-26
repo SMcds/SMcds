@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SMcds
-- 👀 I’m interested in innovative ideas coming to life
+- 👀 I'm interested in practicing ML models
 - 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me my email from my profile
-- ⚡ Fun fact: I have no idea how any of this work but willing to learn
+- 💞️ I can connect with people who are engineering enthusiasts 
+- 📫 Surya Muthu
+- ⚡ I'm excited about coding even though I'm average!!
 
 <!---
 SMcds/SMcds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
